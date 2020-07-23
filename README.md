@@ -19,7 +19,8 @@ https://microsoft.public.es.access.narkive.com/2tJKsrLb/como-utilizar-relaciones
 Imagenes en base de datos access
 https://www.youtube.com/watch?v=dnpPNjTVX68&t=1384s
 
-Crear detalle de Mantenimiento, basandose en facturaccionlassroom.google.com/u/0/h?hl=es
+Crear detalle de Mantenimiento, basandose en facturaccion 
+https://www.youtube.com/watch?v=jbK8P_wtlLk&t=338s
 
 Mensaje del boton http://www.accessyexcel.com/access-aprende-a-utilizar-los-msgbox-parte-2/
 
