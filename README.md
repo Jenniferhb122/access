@@ -36,3 +36,4 @@ lassroom.google.com/u/0/h?hl=es
 Mensaje del boton http://www.accessyexcel.com/access-aprende-a-utilizar-los-msgbox-parte-2/
 ocutar bara de registros
 http://www.forosdelweb.com/f90/quitar-barra-registros-subformulario-access-520602/
+http://www.forosdelweb.com/f90/quitar-barra-registros-subformulario-access-520602/
